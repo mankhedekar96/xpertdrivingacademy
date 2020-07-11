@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xpertdrivingacademy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/xpertdrivingacademy/static/js/main.71b47a27.chunk.js",
+    "main.js.map": "/xpertdrivingacademy/static/js/main.71b47a27.chunk.js.map",
+    "runtime-main.js": "/xpertdrivingacademy/static/js/runtime-main.0ff871b7.js",
+    "runtime-main.js.map": "/xpertdrivingacademy/static/js/runtime-main.0ff871b7.js.map",
+    "static/js/2.0a3cfed7.chunk.js": "/xpertdrivingacademy/static/js/2.0a3cfed7.chunk.js",
+    "static/js/2.0a3cfed7.chunk.js.map": "/xpertdrivingacademy/static/js/2.0a3cfed7.chunk.js.map",
+    "index.html": "/xpertdrivingacademy/index.html",
+    "precache-manifest.923ee521e8f2dab07a1f88a9e5ee0ab6.js": "/xpertdrivingacademy/precache-manifest.923ee521e8f2dab07a1f88a9e5ee0ab6.js",
+    "service-worker.js": "/xpertdrivingacademy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/xpertdrivingacademy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0a3cfed7.chunk.js.LICENSE.txt": "/xpertdrivingacademy/static/js/2.0a3cfed7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/xpertdrivingacademy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff871b7.js",
+    "static/js/2.0a3cfed7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.71b47a27.chunk.js"
+  ]
+}
